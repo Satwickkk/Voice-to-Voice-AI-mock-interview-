@@ -2,6 +2,9 @@
 
 An intelligent Python-based mock interview system that conducts real-time voice conversations with AI, analyzes tone and confidence, and provides comprehensive feedback.
 
+##Interface
+<img width="1909" height="901" alt="Screenshot 2025-08-13 191956" src="https://github.com/user-attachments/assets/ee7ae4fe-cbda-4ff8-be9b-eedf477e7fb0" />
+
 ## 🎯 Features
 
 - **Real-Time Voice Interview**: Speak naturally with an AI interviewer
